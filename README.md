@@ -11,3 +11,5 @@ Branch 4 Commit 4
 Branch 5 Commit 5
 
 Branch 6 Commit 6
+
+Branch 7 Commit 7
